@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ashmit-01/Complete-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ashmit-01/Complete-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ashmit-01/Complete-DSA/tree/master/0485-max-consecutive-ones) |
+| [2104-sum-of-subarray-ranges](https://github.com/ashmit-01/Complete-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashmit-01/Complete-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [2104-sum-of-subarray-ranges](https://github.com/ashmit-01/Complete-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashmit-01/Complete-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [2104-sum-of-subarray-ranges](https://github.com/ashmit-01/Complete-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
