@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ashmit-01/Complete-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ashmit-01/Complete-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ashmit-01/Complete-DSA/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ashmit-01/Complete-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/ashmit-01/Complete-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ashmit-01/Complete-DSA/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/ashmit-01/Complete-DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ashmit-01/Complete-DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ashmit-01/Complete-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ashmit-01/Complete-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ashmit-01/Complete-DSA/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ashmit-01/Complete-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
