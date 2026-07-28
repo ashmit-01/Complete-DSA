@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ashmit-01/Complete-DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/ashmit-01/Complete-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ashmit-01/Complete-DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ashmit-01/Complete-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ashmit-01/Complete-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ashmit-01/Complete-DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashmit-01/Complete-DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -110,9 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ashmit-01/Complete-DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ashmit-01/Complete-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ashmit-01/Complete-DSA/tree/master/0073-set-matrix-zeroes) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ashmit-01/Complete-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ashmit-01/Complete-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
