@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ashmit-01/Complete-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ashmit-01/Complete-DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ashmit-01/Complete-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ashmit-01/Complete-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmit-01/Complete-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/ashmit-01/Complete-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ashmit-01/Complete-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ashmit-01/Complete-DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/ashmit-01/Complete-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ashmit-01/Complete-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ashmit-01/Complete-DSA/tree/master/0125-valid-palindrome) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ashmit-01/Complete-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ashmit-01/Complete-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
