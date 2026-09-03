@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ashmit-01/Complete-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ashmit-01/Complete-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ashmit-01/Complete-DSA/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/ashmit-01/Complete-DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ashmit-01/Complete-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ashmit-01/Complete-DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ashmit-01/Complete-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ashmit-01/Complete-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ashmit-01/Complete-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ashmit-01/Complete-DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ashmit-01/Complete-DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ashmit-01/Complete-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ashmit-01/Complete-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Two Pointers
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ashmit-01/Complete-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ashmit-01/Complete-DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ashmit-01/Complete-DSA/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmit-01/Complete-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ashmit-01/Complete-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashmit-01/Complete-DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ashmit-01/Complete-DSA/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -136,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ashmit-01/Complete-DSA/tree/master/0560-subarray-sum-equals-k) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ashmit-01/Complete-DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
