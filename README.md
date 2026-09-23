@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ashmit-01/Complete-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ashmit-01/Complete-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ashmit-01/Complete-DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ashmit-01/Complete-DSA/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/ashmit-01/Complete-DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ashmit-01/Complete-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ashmit-01/Complete-DSA/tree/master/0485-max-consecutive-ones) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ashmit-01/Complete-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ashmit-01/Complete-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ashmit-01/Complete-DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ashmit-01/Complete-DSA/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/ashmit-01/Complete-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmit-01/Complete-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
@@ -158,4 +160,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashmit-01/Complete-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashmit-01/Complete-DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashmit-01/Complete-DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashmit-01/Complete-DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashmit-01/Complete-DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashmit-01/Complete-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
