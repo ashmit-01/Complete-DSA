@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashmit-01/Complete-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ashmit-01/Complete-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ashmit-01/Complete-DSA/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashmit-01/Complete-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ashmit-01/Complete-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ashmit-01/Complete-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ashmit-01/Complete-DSA/tree/master/0204-count-primes) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ashmit-01/Complete-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ashmit-01/Complete-DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ashmit-01/Complete-DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashmit-01/Complete-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ashmit-01/Complete-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ashmit-01/Complete-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ashmit-01/Complete-DSA/tree/master/0344-reverse-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashmit-01/Complete-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashmit-01/Complete-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Tree
 |  |
 | ------- |
