@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ashmit-01/Complete-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ashmit-01/Complete-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ashmit-01/Complete-DSA/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/ashmit-01/Complete-DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ashmit-01/Complete-DSA/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ashmit-01/Complete-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ashmit-01/Complete-DSA/tree/master/0344-reverse-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ashmit-01/Complete-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0647-palindromic-substrings](https://github.com/ashmit-01/Complete-DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ashmit-01/Complete-DSA/tree/master/0680-valid-palindrome-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ashmit-01/Complete-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ashmit-01/Complete-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashmit-01/Complete-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ashmit-01/Complete-DSA/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/ashmit-01/Complete-DSA/tree/master/0647-palindromic-substrings) |
 ## Recursion
 |  |
 | ------- |
