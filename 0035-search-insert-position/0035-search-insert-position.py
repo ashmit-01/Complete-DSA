@@ -3,16 +3,9 @@ class Solution:
         left = 0
         n = len(nums)
 
-        while left < n :
-            if nums[left] == target:
+        while left < n:
+            if nums[left] >= target:
                 return left
-            elif nums[left] > target:
-                return left
-            elif target < nums[0]:
-                return "0"
-            elif target > nums[n-1]:
-                return n
-            left += 1             
-            
+            left += 1
 
-        
+        return n
