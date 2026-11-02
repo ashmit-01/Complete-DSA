@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ashmit-01/Complete-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/ashmit-01/Complete-DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ashmit-01/Complete-DSA/tree/master/0680-valid-palindrome-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashmit-01/Complete-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ashmit-01/Complete-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashmit-01/Complete-DSA/tree/master/0005-longest-palindromic-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashmit-01/Complete-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
