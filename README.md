@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ashmit-01/Complete-DSA/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/ashmit-01/Complete-DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmit-01/Complete-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashmit-01/Complete-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/ashmit-01/Complete-DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashmit-01/Complete-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashmit-01/Complete-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ashmit-01/Complete-DSA/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/ashmit-01/Complete-DSA/tree/master/0647-palindromic-substrings) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashmit-01/Complete-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
 | ------- |
@@ -232,5 +234,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ashmit-01/Complete-DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmit-01/Complete-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashmit-01/Complete-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashmit-01/Complete-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashmit-01/Complete-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
