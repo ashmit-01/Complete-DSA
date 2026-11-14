@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ashmit-01/Complete-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ashmit-01/Complete-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashmit-01/Complete-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ashmit-01/Complete-DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ashmit-01/Complete-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ashmit-01/Complete-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0904-fruit-into-baskets](https://github.com/ashmit-01/Complete-DSA/tree/master/0904-fruit-into-baskets) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ashmit-01/Complete-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ashmit-01/Complete-DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ashmit-01/Complete-DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ashmit-01/Complete-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ashmit-01/Complete-DSA/tree/master/0344-reverse-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ashmit-01/Complete-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/ashmit-01/Complete-DSA/tree/master/0647-palindromic-substrings) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ashmit-01/Complete-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ashmit-01/Complete-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashmit-01/Complete-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ashmit-01/Complete-DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmit-01/Complete-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ashmit-01/Complete-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
